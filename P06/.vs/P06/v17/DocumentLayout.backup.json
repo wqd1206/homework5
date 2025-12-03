@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kiwiw\\OneDrive\\\u684C\u9762\\\u7A0B\u5F0F\\HW1204\\P06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C9C964-49F4-4B6F-9AEC-B5A7FF47FE7C}|P06\\P06.vcxproj|C:\\Users\\kiwiw\\OneDrive\\\u684C\u9762\\\u7A0B\u5F0F\\HW1204\\P06\\P06\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3C9C964-49F4-4B6F-9AEC-B5A7FF47FE7C}|P06\\P06.vcxproj|solutionrelative:P06\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\kiwiw\\OneDrive\\\u684C\u9762\\\u7A0B\u5F0F\\HW1204\\P06\\P06\\Source.cpp",
+              "RelativeDocumentMoniker": "P06\\Source.cpp",
+              "ToolTip": "C:\\Users\\kiwiw\\OneDrive\\\u684C\u9762\\\u7A0B\u5F0F\\HW1204\\P06\\P06\\Source.cpp*",
+              "RelativeToolTip": "P06\\Source.cpp*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-03T10:59:42.982Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
